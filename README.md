@@ -1,4 +1,4 @@
-Hi, I'm Ignacio Carvajal, a software engineering student at Universidad Autónoma de Madrid (UAM) EPS. I'm passionate about coding and am always learning new technologies. Currently, I am focusing on learning R for data analysis, specifically in the areas of PCA and EFA for my TFG.
+Hi, I'm Ignacio Carvajal, a software engineering student at Universidad Autónoma de Madrid (UAM) EPS. I'm passionate about coding and am always learning new technologies.
 
 On my GitHub profile, you will find various projects that I have been working on, such as:
 
