@@ -11,4 +11,4 @@ On my GitHub profile, you will find various projects that I have been working on
 *   **Reversi-Javascript**: An implementation of the classic board game Reversi (also known as Othello) with AI functionality for computer players.
     
 
-All of my projects are open-source and implemented in JavaScript or Python. I welcome contributions and encourage others to use and build upon them.
+All of my projects are open-source and implemented in **JavaScript** or **Python**. I welcome contributions and encourage others to use and build upon them.
