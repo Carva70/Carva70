@@ -1,6 +1,4 @@
-Hi, I'm Ignacio Carvajal, a software engineering student at Universidad Autónoma de Madrid (UAM) EPS. I'm passionate about coding and am always learning new technologies.
-
-All of my projects are open-source and implemented in **JavaScript** or **Python**. I welcome contributions and encourage others to use and build upon them.
+Hi, I'm Ignacio Carvajal, a software engineering student at Universidad Autónoma de Madrid (UAM) EPS. I'm passionate about coding and am always learning new technologies. All of my projects are open-source and implemented in **JavaScript** or **Python**. I welcome contributions and encourage others to use and build upon them.
 
 On my GitHub profile, you will find various projects that I have been working on, such as:
 
@@ -11,3 +9,5 @@ On my GitHub profile, you will find various projects that I have been working on
 *   **Pathfinding-Javascript**: A visualization tool for the A\* pathfinding algorithm. The tool allows users to create a grid of obstacles and select starting and ending points for the algorithm to find the shortest path between.
     
 *   **Reversi-Javascript**: An implementation of the classic board game Reversi (also known as Othello) with AI functionality for computer players.
+
+Welcome to my Github page 👋
